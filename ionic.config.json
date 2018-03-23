@@ -1,0 +1,8 @@
+{
+  "name": "machinementordemo",
+  "app_id": "28c25fbe",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
